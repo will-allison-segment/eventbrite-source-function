@@ -1,5 +1,5 @@
 # Eventbrite Source Function
-This function is built to ingest event registrations from Eventbrite into Segment. 
+This function is built to ingest event registrations and ticket refunds from Eventbrite into Segment. 
 
 ## Setup
 ### Segment Setup
