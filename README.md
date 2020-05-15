@@ -3,11 +3,11 @@ This function is built to ingest event registrations from Eventbrite into Segmen
 
 ## Setup
 ### Segment Setup
-** Create the Source Function**
+**Create the Source Function**
 
 To set up this function, copy and paste the code into a new Source Function within the Segment app. While still editing the function, within the Settings tab of the right-hand panel,add a new Setting with a label of "Private Token" and a Name of "privateToken". 
 
-** Add the Source Function to your Workspace **
+**Add the Source Function to your Workspace **
 
 Within the Segment App, go to Catalog --> Functions, select your newly created function, and use it to create a new Source. Save the webhook URL of the Source Function (it will start with "https://fn.segmentapis.com") as you will need to plug this into Eventbrite shortly
 
